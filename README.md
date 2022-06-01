@@ -9,5 +9,5 @@ This system is traind on FrameNet subset of 31 frames ('Arriving', 'Accompanimen
 ![image](https://user-images.githubusercontent.com/106158192/171118451-2fdb37e4-bc99-4778-b7a6-68f67115a27f.png)
 
 # Demo
-Please go to [resources page](http://nlg.csie.ntu.edu.tw/nlpresource/FrameNet/CFN-SP/) to access resources.
+Click [here](http://nlg.csie.ntu.edu.tw/nlpresource/FrameNet/CFN-SP/) to access demosite.
 
